@@ -1,0 +1,29 @@
+/* normal */
+@font-face {
+	font-family: 'Solomon-Sans-Normal'; 
+	src: url(../fonts/solomon-sans/SolomonSans-Normal.ttf); 
+}
+
+/* black */
+@font-face {
+	font-family: 'Solomon-Sans-Black'; 
+	src: url(../fonts/solomon-sans/SolomonSans-Black.ttf); 
+}
+
+/* semibold */
+@font-face {
+	font-family: 'Solomon-Sans-SemiBold'; 
+	src: url(../fonts/solomon-sans/SolomonSans-SemiBold.ttf); 
+}
+ 
+/* bold */
+@font-face {
+	font-family: 'Solomon-Sans-bold'; 
+	src: url(../fonts/solomon-sans/SolomonSans-Bold.ttf); 
+}
+
+/* opensans */
+@font-face {
+	font-family: 'Open Sans'; 
+	src: url(../fonts/solomon-sans/OpenSans-Regular.ttf); 
+}
